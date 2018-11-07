@@ -1,3 +1,9 @@
+---
+title: Добавление библиотеки к проекту
+sidebar: javasdk_sidebar
+permalink: part_2_adding_lib_to_project.html
+---
+
 # Добавление библиотеки к проекту
 
 В ```build.gradle``` проекта необходимо добавить ссылку на репозиторий jitpack:
